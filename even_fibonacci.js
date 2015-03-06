@@ -26,5 +26,5 @@ var evenFibSum = function(sequence) {
 	return evenNum;
 };
 
-var answer = evenFibSum(generateFib(4000000)); 
+var answer = evenFibSum(generateFib(4000000));
 console.log(answer);
